@@ -1,6 +1,6 @@
-## Welcome to My GitHub Pages
+# Welcome to My GitHub Pages
 
-#### To-Do List Application
+### To-Do List Application
 
 Using Angular and LocalStorage to boost productivity.
 Feel free to create list and work on your task one by one.
