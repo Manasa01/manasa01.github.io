@@ -5,7 +5,7 @@
 Using Angular and LocalStorage to boost productivity.
 Feel free to create list and work on your task one by one.
 
-[To-Do list](https://manasa01.github.io/listApp/toDoList)
+[To-Do List App](https://manasa01.github.io/listApp/toDoList)
 
 ### Contacts List Application
 
