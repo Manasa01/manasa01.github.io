@@ -7,6 +7,14 @@ Feel free to create list and work on your task one by one.
 
 [To-Do List App](https://manasa01.github.io/listApp/toDoList)
 
+### Split Expenditure Application
+
+Technology Stack: Angular - Firebase Firestore noSQL
+
+Registered users can easily distribute expenditure and track payments.
+
+[Hosted on Firebase](https://clientpanelprod-3aafe.firebaseapp.com)
+
 ### Contacts List Application
 
 Technology Stack: Angular - Node.js - mySQL
